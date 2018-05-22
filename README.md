@@ -1,5 +1,9 @@
 # aind2-cnn
 
+### Introduction
+
+Hi there.  This is a mini-project forked from the Udacity Deep Learning Nano Degree.
+
 ### Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
